@@ -1,4 +1,5 @@
-# Kata Gekisai Dai Ichi 撃砕第一 Smash and destroy number one
+# Kata Gekisai Dai Ichi 撃砕第一 
+## Smash and destroy number one
 
 1.  (North) Begin in musubi dachi. Hand relaxed to sides, palms towards body.
 2.  On yoi, push heels out into heiko dachi. Cross left palm over right in front of tanden. Then make fists and move to sides with back of fist facing out punching slowly towards ground. Squeeze shoulder blades.
