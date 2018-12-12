@@ -38,7 +38,9 @@ Facing shomen (front of dojo) can be considered as north.
 29. Count 3 and bow respectfully while looking at opponent, not looking at the floor. 
 30. Count 3 straighten up and look forwards.
 
-## Kata Gekisai Dai Ichi - Straight line renzoku bunkai kata side
+## Kata Gekisai Dai Ichi - Renzoku bunkai kata side
+
+Straight line kata usually practiced with a partner performing the defensive side of the kata 
 
 1.  (North) Begin in musubi dachi. Face mainly north for rest of this kata.
 2.  On yoi, push heels out into heiko dachi. Cross left palm over right in front of tanden. Then make fists and move to sides with back of fist facing out punching slowly towards ground.
