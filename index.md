@@ -4,6 +4,8 @@ Kata Gekisai Dai Ichi
 
 Smash and destroy number one
 
+Facing shomen (front of dojo) can be considered as north.
+
 1.  (North) Begin in musubi dachi. Hand relaxed to sides, palms towards body.
 2.  On yoi, push heels out into heiko dachi. Cross left palm over right in front of tanden. Then make fists and move to sides with back of fist facing out punching slowly towards ground. Squeeze shoulder blades.
 3.  (West) On hajime, right feet rotate into left feet then 90° out into left sanchin dachi. Pull right hand back strongly (hikite) while doing left jodan age uke. Blocking elbow should be lower than fist, finish 1 fist in front and above head. Higaonna variant is in heiko dachi.
