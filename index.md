@@ -40,13 +40,13 @@ Facing shomen (front of dojo) can be considered as north.
 
 ## Kata Gekisai Dai Ichi - Renzoku bunkai kata side
 
-Straight line kata usually practiced with a partner performing the defensive side of the kata 
+Straight line kata usually with a partner performing the defensive side of the kata 
 
 1.  (North) Begin in musubi dachi. Face mainly north for rest of this kata.
 2.  On yoi, push heels out into heiko dachi. Cross left palm over right in front of tanden. Then make fists and move to sides with back of fist facing out punching slowly towards ground.
-3.  On hajime, Step into right sanchin dachi. Execute chudan soto uke - forearm body block.
+3.  On hajime, Step forwards into right sanchin dachi. Execute right chudan uke - forearm body block, arm parallel to floor.
 4.  Step right back into left sanchin. Execute left jodan age uke.
-5.  Step right forward into right right sanchin. Execute right jodan oi tsuke.
+5.  Step right forward into right sanchin. Execute right jodan oi tsuke.
 6.  Step right back diagonally into left shiko dachi. Execute left gedan barai uke.
 7.  Step left back into right sanchin. Execute right jodan age uke.
 8.  Step left forward into left sanchin. Execute left jodan oi tsuke.
@@ -66,14 +66,45 @@ Straight line kata usually practiced with a partner performing the defensive sid
 15. Quickly execute right gedan barai.
 16. (Kiai) Quickly execute left chudan tsuke.
 17. Left ashi barai (leg sweep) forwards as you rise then stomp into left heiko dachi. Execute left shuto uchi with stomp.
-18. (North east) Left feet back 45° into right zenkutsu dachi. Execute right chudan uke into right hikite and left reverse hikite.
+18. (North east) Left feet back 45° into right zenkutsu dachi. Execute right chudan uke into right hikite and left reverse hikite. Right chudan uke blocks partner's right chudan tsuke.
 19. (Kiai) Quickly execute moroto awase tsuke with left chudan tsuke and right chudan ura tsuke. Right fist ends 2 fist widths behind, below and left of left fist. Right fist is aimed at kidneys and left fist is aimed chest.
 20. Maintaining crouch, slide left feet forwards towards right. Sabaki.
-21. (North west) Slide right feet back 45° into left zenkutsu dachi. Execute left chudan uke into left hikite and right reverse hikite.
+21. (North west) Slide right feet back 45° into left zenkutsu dachi. Execute left chudan uke into left hikite and right reverse hikite. Left chudan uke blocks partner's left chudan tsuke.
 22. (Kiai) Quickly execute moroto awase tsuke with right chudan tsuke and left chudan ura tsuke.
 23. (North) Maintaining moroto tsuke, move right back feet 45° west so you face north again.
 24. Open left hand palms up. In circular motion, place right fist into left hands.
 25. Step left feet back into musubi dashi. At the same time, rotate both hands as you open the right hand until both palms are facing the front of tanden.
+26. Maintain zanchin (residual awareness). Put hands by sides.
+27. Count 3 and bow respectfully while looking at opponent, not looking at the floor. 
+28. Count 3 straighten up and look forwards.
+
+## Kata Gekisai Dai Ichi - Renzoku bunkai defensive side
+Slightly more advanced straight line kata practiced with a partner performing the kata side 
+
+1.  (South) Begin in musubi dachi. Face mainly south for rest of this kata.
+2.  On yoi, push heels out into heiko dachi. Cross left palm over right in front of tanden. Then make fists and move to sides with back of fist facing out punching slowly towards ground.
+3.  On hajime, Step forwards into right sanchin dachi. Execute right chudan uke - forearm body block, arm parallel to floor.
+4.  Step left forward into left sanchin. Execute left jodan oi tsuke.
+5.  Step left back into right sanchin. Execute right jodan age uke.
+6.  Step left forward diagonally into left shiko dachi. Execute left gedan tsuke.
+7.  Step right forward into right sanchin. Execute right jodan oi tsuke.
+8.  Step right back into left sanchin. Execute left jodan age uke.
+9.  Step right forward diagonally into right shiko. Execute right gedan tsuke.
+10. Step left forward into left sanchin. Slowly execute left chudan tsuke. 
+11. Step right farward into right sanchin. Slowly execute right chudan tsuke. Breathe.
+12. Quickly execute left gedan teisho uke to block mae geri, left chudan teisho uke to block higi ate, left chudan kakuto uke - bent wrist to block ura ken uchi.
+13. Right gedan tsuke.
+14. (Kiai?) Left chudan teisho uke. Open palm heel block for chudan tsuke.
+15. Right high step back to avoid ashi barai into left heiko dashi. Execute left jodan kakuto uke to block shuto uchi.
+16. Step into left sanchin. Execute left chudan tsuke.
+17. Quickly execute right gedan teisho uke, right chudan teisho uke, right chudan kakuto uke.
+18. Left gedan tsuke.
+19. (Kiai?) Right chudan teisho uke to block chudan tsuki. Open palm heel block.
+20. Step right forward into right sanchin. Execute right chudan tsuke with kiai. 
+21. (South east) Move right feet 45° into right zenkutsu dachi. Execute left chudan tsuke with kiai.
+22. (South) Maintain chudan tsuke, move left back feet 45° west so you face south again.
+24. Open left hand palms up. In circular motion, place right fist into left hands.
+25. Step right feet back into musubi dashi. At the same time, rotate both hands as you open the right hand until both palms are facing the front of tanden.
 26. Maintain zanchin (residual awareness). Put hands by sides.
 27. Count 3 and bow respectfully while looking at opponent, not looking at the floor. 
 28. Count 3 straighten up and look forwards.
