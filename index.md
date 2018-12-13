@@ -40,7 +40,9 @@ Facing shomen (front of dojo) can be considered as north.
 
 ## Kata Gekisai Dai Ichi - Renzoku bunkai kata side
 
-Straight line kata usually with a partner performing the defensive side of the kata 
+Straight line kata usually with a partner performing the defensive side of the kata. This kata was developed by Morio Higaonna.
+
+Renzoku bunkai translates as combination application. This is the bridge between sparring and a real fight.
 
 1.  (North) Begin in musubi dachi. Face mainly north for rest of this kata.
 2.  On yoi, push heels out into heiko dachi. Cross left palm over right in front of tanden. Then make fists and move to sides with back of fist facing out punching slowly towards ground.
