@@ -2,6 +2,8 @@
 
 Bunkai attacking side kata as taught at Wycombe dojo. Goju ryu karate
 
+Booker primary school, Field road, High Wycombe HP12 4LR. Mon and Thu 17:30-19:30
+
 |        | Stance     | Hands          | Leg movement                  | Hand and arm movement                      |
 |--------|------------|----------------|-------------------------------|--------------------------------------------|
 |        | Musubi     |                |                               |                                            |
@@ -30,7 +32,7 @@ Bunkai attacking side kata as taught at Wycombe dojo. Goju ryu karate
 |        | L heiko    | L jodan uke    | Left foot high step back      | Left bent wrist upper block heel facing left|
 | Kiai   | R sanchin  | R chudan tsuke | Right foot forward            | Right middle punch                         |
 | Kiai   | R zenkutsu | L chudan tsuke | Right foot right 45°          | Left middle punch                          |
-|        | R zenkutsu |                | Left back foot left 45°       | Left palm up and put right fist into<br/> left in front of tendan|
+|        | R zenkutsu |                | Left back foot right 45°      | Left palm up and put right fist into<br/> left in front of tendan|
 |        | Musube     |                | Right foot back               | Rotate both hands and open right fist<br/> until palms face tendan|
 | Yamae  | Musube     |                |                               | Lower hands besides body with palms<br/> facing body|
 | Rei    | Musube     |                |                               | Pause for count of 3 and bow for<br/> count of 3|
