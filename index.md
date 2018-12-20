@@ -80,7 +80,7 @@ Renzoku bunkai translates as combination application. This is the bridge between
 27. Count 3 and bow respectfully while looking at opponent, not looking at the floor. 
 28. Count 3 straighten up and look forwards.
 
-## Kata Gekisai Dai Ichi - Renzoku bunkai defensive side
+## Kata Gekisai Dai Ichi - Renzoku bunkai attacking side
 Slightly more advanced straight line kata practiced with a partner performing the kata side 
 
 1.  (South) Begin in musubi dachi. Face mainly south for rest of this kata.
