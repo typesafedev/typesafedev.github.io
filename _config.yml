@@ -4,4 +4,4 @@ future: true
 readme_index:
   enabled:          true
   remove_originals: false
-theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
