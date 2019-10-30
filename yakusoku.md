@@ -8,21 +8,6 @@ Mon and Thu 18:30-19:30 Second session
 
 Any mistakes in transcribing can be ascribed to me and not my sensei.  
 
-3D Sanchin dachi  
-ZD Zenkutsu dachi  
-SD Shiko dachi  
-
-J  Jodan  
-C  Chudan  
-G  Gedan  
-
-T  Tsuki  
-U  Uke  
-B  Berai  
-
-R  Right  
-L  Left  
-
 |  | Attacker        | Defender
 |--|-----------------|-----------------------
 1  | R 3D Kamae      | R 3D Kamae
@@ -55,3 +40,23 @@ L  Left
 28 | L ZD CU, JT     | L ZD CT, JU, CT
 29 | R SD GB, GT     | R SD GT, GB, GT
 30 | Yame            | Yame
+
+| Name             | Key| Description                                                                                 |
+|------------------|----|---------------------------------------------------------------------------------------------|
+| Musubi dachi     | MD | Ready stance. Heels together feet 90° apart                                                 |
+| Heiko dachi      | HD | Feet parallel shoulder width apart                                                          |
+| Sanchin dachi    | 3D | Hourglass stance. Knees roughly 1 fist apart, slightly bent. Heels out at roughly 45°.      |
+| Zenkutsu dachi   | ZD | Long stance, normally front stance. Front knee bent roughly 90°.                            |
+| Shiko dachi      | SD | Square or sumo stance. Both knees bent roughly 90° back straight. Toes out at roughly 45°   |
+| Jodan            | J  | Upper level                                                                                 |
+| Chudan           | C  | Middle level                                                                                |
+| Gedan            | G  | Lower level                                                                                 |
+| Left             | L  |                                                                                             |
+| Right            | R  |                                                                                             |
+| Tsuki            | T  | Punch                                                                                       |
+| Berai            | B  | Sweep. Usually used with gedan berai (uchi) or low sweeping hammer strike. Used as a block. |
+| Uke              | U  | Block or receive.                                                                           |
+| Kamae            | K  | Posture. At least 2 kinds, the one that starts yakusoku kumite and sanchin no kamae         |
+| Yoi              |    | Ready or prepare.                                                                           |
+| Hajime           |    | Start                                                                                       |
+| Yame             |    | Stop                                                                                        |
