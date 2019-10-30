@@ -6,7 +6,7 @@ Booker primary school, Field road, High Wycombe HP12 4LR.
 Mon and Thu 17:30-18:30 First session  
 Mon and Thu 18:30-19:30 Second session  
 
-Any mistakes in transcribing can be ascribed to me and not my sensei.  
+I am responsible for any transcribing mistakes and not my sensei.  
 
 |  | Attacker        | Defender
 |--|-----------------|-----------------------
